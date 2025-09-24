@@ -1,0 +1,8 @@
+
+
+first  :> just capture everything with url, (x,y) and timestamp & delay   => timestamp here is for ordering purpose nothing more
+
+second  :>
+
+
+source myenv/bin/activate  

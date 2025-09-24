@@ -1,0 +1,3367 @@
+[
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 6
+    },
+    "url": "https://www.apple.com/",
+    "delay": 100,
+    "time": 1755900896637
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 32
+    },
+    "url": "https://www.apple.com/",
+    "delay": 33,
+    "time": 1755900896670
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 81
+    },
+    "url": "https://www.apple.com/",
+    "delay": 33,
+    "time": 1755900896703
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 125
+    },
+    "url": "https://www.apple.com/",
+    "delay": 33,
+    "time": 1755900896736
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 209
+    },
+    "url": "https://www.apple.com/",
+    "delay": 33,
+    "time": 1755900896769
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 304
+    },
+    "url": "https://www.apple.com/",
+    "delay": 34,
+    "time": 1755900896803
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 390
+    },
+    "url": "https://www.apple.com/",
+    "delay": 33,
+    "time": 1755900896836
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 465
+    },
+    "url": "https://www.apple.com/",
+    "delay": 33,
+    "time": 1755900896869
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 529
+    },
+    "url": "https://www.apple.com/",
+    "delay": 34,
+    "time": 1755900896903
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 581
+    },
+    "url": "https://www.apple.com/",
+    "delay": 33,
+    "time": 1755900896936
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 624
+    },
+    "url": "https://www.apple.com/",
+    "delay": 33,
+    "time": 1755900896969
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 662
+    },
+    "url": "https://www.apple.com/",
+    "delay": 34,
+    "time": 1755900897003
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 693
+    },
+    "url": "https://www.apple.com/",
+    "delay": 33,
+    "time": 1755900897036
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 720
+    },
+    "url": "https://www.apple.com/",
+    "delay": 34,
+    "time": 1755900897070
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 741
+    },
+    "url": "https://www.apple.com/",
+    "delay": 33,
+    "time": 1755900897103
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 759
+    },
+    "url": "https://www.apple.com/",
+    "delay": 34,
+    "time": 1755900897137
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 775
+    },
+    "url": "https://www.apple.com/",
+    "delay": 33,
+    "time": 1755900897170
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 787
+    },
+    "url": "https://www.apple.com/",
+    "delay": 33,
+    "time": 1755900897203
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 799
+    },
+    "url": "https://www.apple.com/",
+    "delay": 33,
+    "time": 1755900897236
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 809
+    },
+    "url": "https://www.apple.com/",
+    "delay": 34,
+    "time": 1755900897270
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 817
+    },
+    "url": "https://www.apple.com/",
+    "delay": 33,
+    "time": 1755900897303
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 825
+    },
+    "url": "https://www.apple.com/",
+    "delay": 34,
+    "time": 1755900897337
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 833
+    },
+    "url": "https://www.apple.com/",
+    "delay": 33,
+    "time": 1755900897370
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 837
+    },
+    "url": "https://www.apple.com/",
+    "delay": 32,
+    "time": 1755900897402
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 841
+    },
+    "url": "https://www.apple.com/",
+    "delay": 34,
+    "time": 1755900897436
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 845
+    },
+    "url": "https://www.apple.com/",
+    "delay": 33,
+    "time": 1755900897469
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 846
+    },
+    "url": "https://www.apple.com/",
+    "delay": 34,
+    "time": 1755900897503
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 851
+    },
+    "url": "https://www.apple.com/",
+    "delay": 38,
+    "time": 1755900897541
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 877
+    },
+    "url": "https://www.apple.com/",
+    "delay": 28,
+    "time": 1755900897569
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 924
+    },
+    "url": "https://www.apple.com/",
+    "delay": 34,
+    "time": 1755900897603
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 957
+    },
+    "url": "https://www.apple.com/",
+    "delay": 33,
+    "time": 1755900897636
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1004
+    },
+    "url": "https://www.apple.com/",
+    "delay": 33,
+    "time": 1755900897669
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1068
+    },
+    "url": "https://www.apple.com/",
+    "delay": 33,
+    "time": 1755900897702
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1138
+    },
+    "url": "https://www.apple.com/",
+    "delay": 35,
+    "time": 1755900897737
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1196
+    },
+    "url": "https://www.apple.com/",
+    "delay": 32,
+    "time": 1755900897769
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1209
+    },
+    "url": "https://www.apple.com/",
+    "delay": 34,
+    "time": 1755900897803
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1214
+    },
+    "url": "https://www.apple.com/",
+    "delay": 100,
+    "time": 1755900897903
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1241
+    },
+    "url": "https://www.apple.com/",
+    "delay": 33,
+    "time": 1755900897936
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1270
+    },
+    "url": "https://www.apple.com/",
+    "delay": 33,
+    "time": 1755900897969
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1322
+    },
+    "url": "https://www.apple.com/",
+    "delay": 33,
+    "time": 1755900898002
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1384
+    },
+    "url": "https://www.apple.com/",
+    "delay": 34,
+    "time": 1755900898036
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1446
+    },
+    "url": "https://www.apple.com/",
+    "delay": 33,
+    "time": 1755900898069
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1495
+    },
+    "url": "https://www.apple.com/",
+    "delay": 34,
+    "time": 1755900898103
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1538
+    },
+    "url": "https://www.apple.com/",
+    "delay": 33,
+    "time": 1755900898136
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1566
+    },
+    "url": "https://www.apple.com/",
+    "delay": 33,
+    "time": 1755900898169
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 161,
+      "y": 92
+    },
+    "url": "https://www.apple.com/",
+    "delay": 397,
+    "time": 1755900898566
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 168,
+      "y": 88
+    },
+    "url": "https://www.apple.com/",
+    "delay": 11,
+    "time": 1755900898577
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 212,
+      "y": 80
+    },
+    "url": "https://www.apple.com/",
+    "delay": 26,
+    "time": 1755900898603
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 375,
+      "y": 78
+    },
+    "url": "https://www.apple.com/",
+    "delay": 34,
+    "time": 1755900898637
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 570,
+      "y": 150
+    },
+    "url": "https://www.apple.com/",
+    "delay": 33,
+    "time": 1755900898670
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 621,
+      "y": 179
+    },
+    "url": "https://www.apple.com/",
+    "delay": 33,
+    "time": 1755900898703
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 623,
+      "y": 181
+    },
+    "url": "https://www.apple.com/",
+    "delay": 300,
+    "time": 1755900899003
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 633,
+      "y": 192
+    },
+    "url": "https://www.apple.com/",
+    "delay": 33,
+    "time": 1755900899036
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 645,
+      "y": 201
+    },
+    "url": "https://www.apple.com/",
+    "delay": 34,
+    "time": 1755900899070
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 649,
+      "y": 204
+    },
+    "url": "https://www.apple.com/",
+    "delay": 33,
+    "time": 1755900899103
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 651,
+      "y": 206
+    },
+    "url": "https://www.apple.com/",
+    "delay": 33,
+    "time": 1755900899136
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 651,
+      "y": 207
+    },
+    "url": "https://www.apple.com/",
+    "delay": 33,
+    "time": 1755900899169
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 651,
+      "y": 211
+    },
+    "url": "https://www.apple.com/",
+    "delay": 34,
+    "time": 1755900899203
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 651,
+      "y": 216
+    },
+    "url": "https://www.apple.com/",
+    "delay": 33,
+    "time": 1755900899236
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 651,
+      "y": 223
+    },
+    "url": "https://www.apple.com/",
+    "delay": 34,
+    "time": 1755900899270
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 649,
+      "y": 231
+    },
+    "url": "https://www.apple.com/",
+    "delay": 33,
+    "time": 1755900899303
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 646,
+      "y": 243
+    },
+    "url": "https://www.apple.com/",
+    "delay": 33,
+    "time": 1755900899336
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 643,
+      "y": 254
+    },
+    "url": "https://www.apple.com/",
+    "delay": 34,
+    "time": 1755900899370
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 641,
+      "y": 262
+    },
+    "url": "https://www.apple.com/",
+    "delay": 33,
+    "time": 1755900899403
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 641,
+      "y": 265
+    },
+    "url": "https://www.apple.com/",
+    "delay": 33,
+    "time": 1755900899436
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 641,
+      "y": 266
+    },
+    "url": "https://www.apple.com/",
+    "delay": 33,
+    "time": 1755900899469
+  },
+  {
+    "type": "click",
+    "data": {
+      "x": 641,
+      "y": 266,
+      "button": 0
+    },
+    "url": "https://www.apple.com/",
+    "delay": 235,
+    "time": 1755900899704
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 641,
+      "y": 273
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 4316,
+    "time": 1755900904020
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 641,
+      "y": 302
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 33,
+    "time": 1755900904053
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 641,
+      "y": 340
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 34,
+    "time": 1755900904087
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 644,
+      "y": 365
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 33,
+    "time": 1755900904120
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 646,
+      "y": 381
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 33,
+    "time": 1755900904153
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 647,
+      "y": 393
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 33,
+    "time": 1755900904186
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 647,
+      "y": 402
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 34,
+    "time": 1755900904220
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 647,
+      "y": 411
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 34,
+    "time": 1755900904254
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 647,
+      "y": 420
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 32,
+    "time": 1755900904286
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 647,
+      "y": 429
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 34,
+    "time": 1755900904320
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 647,
+      "y": 436
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 33,
+    "time": 1755900904353
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 647,
+      "y": 443
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 34,
+    "time": 1755900904387
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 647,
+      "y": 446
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 32,
+    "time": 1755900904419
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 13
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 301,
+    "time": 1755900904720
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 36
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 33,
+    "time": 1755900904753
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 53
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 33,
+    "time": 1755900904786
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 63
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 34,
+    "time": 1755900904820
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 83
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 33,
+    "time": 1755900904853
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 124
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 67,
+    "time": 1755900904920
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 140
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 34,
+    "time": 1755900904954
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 154
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 32,
+    "time": 1755900904986
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 166
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 34,
+    "time": 1755900905020
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 178
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 33,
+    "time": 1755900905053
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 187
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 34,
+    "time": 1755900905087
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 195
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 33,
+    "time": 1755900905120
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 647,
+      "y": 445
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 133,
+    "time": 1755900905253
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 658,
+      "y": 432
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 34,
+    "time": 1755900905287
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 681,
+      "y": 410
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 33,
+    "time": 1755900905320
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 698,
+      "y": 397
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 33,
+    "time": 1755900905353
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 706,
+      "y": 393
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 33,
+    "time": 1755900905386
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 707,
+      "y": 393
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 34,
+    "time": 1755900905420
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 206
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 333,
+    "time": 1755900905753
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 231
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 34,
+    "time": 1755900905787
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 246
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 33,
+    "time": 1755900905820
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 280
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 33,
+    "time": 1755900905853
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 320
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 36,
+    "time": 1755900905889
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 360
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 31,
+    "time": 1755900905920
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 392
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 34,
+    "time": 1755900905954
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 400
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 33,
+    "time": 1755900905987
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 411
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 166,
+    "time": 1755900906153
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 426
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 34,
+    "time": 1755900906187
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 440
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 33,
+    "time": 1755900906220
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 456
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 33,
+    "time": 1755900906253
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 474
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 34,
+    "time": 1755900906287
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 490
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 33,
+    "time": 1755900906320
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 504
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 33,
+    "time": 1755900906353
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 513
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 33,
+    "time": 1755900906386
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 516
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 100,
+    "time": 1755900906486
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 527
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 34,
+    "time": 1755900906520
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 537
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 33,
+    "time": 1755900906553
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 543
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 34,
+    "time": 1755900906587
+  },
+  {
+    "type": "click",
+    "data": {
+      "x": 707,
+      "y": 393,
+      "button": 0
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 442,
+    "time": 1755900907029
+  },
+  {
+    "type": "click",
+    "data": {
+      "x": 0,
+      "y": 0,
+      "button": 0
+    },
+    "url": "https://www.apple.com/us-edu/store",
+    "delay": 3,
+    "time": 1755900907032
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 13
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 4389,
+    "time": 1755900911421
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 42
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 31,
+    "time": 1755900911452
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 67
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900911486
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 106
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900911519
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 152
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900911552
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 193
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900911586
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 227
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900911620
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 257
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900911653
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 271
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900911686
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 281
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 167,
+    "time": 1755900911853
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 300
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900911886
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 319
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900911920
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 340
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900911953
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 360
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900911986
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 377
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900912020
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 392
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900912053
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 404
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900912086
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 413
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900912120
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 709,
+      "y": 385
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 67,
+    "time": 1755900912187
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 718,
+      "y": 371
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900912220
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 726,
+      "y": 361
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900912253
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 728,
+      "y": 359
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900912286
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 728,
+      "y": 359
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900912320
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 729,
+      "y": 361
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900912353
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 731,
+      "y": 368
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900912386
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 735,
+      "y": 378
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900912420
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 739,
+      "y": 389
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900912453
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 744,
+      "y": 395
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 35,
+    "time": 1755900912488
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 746,
+      "y": 398
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 31,
+    "time": 1755900912519
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 748,
+      "y": 400
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900912553
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 749,
+      "y": 401
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900912586
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 750,
+      "y": 402
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900912620
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 751,
+      "y": 403
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 32,
+    "time": 1755900912652
+  },
+  {
+    "type": "click",
+    "data": {
+      "x": 751,
+      "y": 403,
+      "button": 0
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 244,
+    "time": 1755900912896
+  },
+  {
+    "type": "click",
+    "data": {
+      "x": 751,
+      "y": 403,
+      "button": 0
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 1007,
+    "time": 1755900913903
+  },
+  {
+    "type": "click",
+    "data": {
+      "x": 751,
+      "y": 403,
+      "button": 0
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 1291,
+    "time": 1755900915194
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 416
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 1409,
+    "time": 1755900916603
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 430
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 25,
+    "time": 1755900916628
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 450
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900916661
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 471
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900916694
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 498
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900916728
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 530
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900916761
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 565
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900916795
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 595
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900916828
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 621
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900916862
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 642
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900916895
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 752,
+      "y": 403
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 122,
+    "time": 1755900917017
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 759,
+      "y": 401
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 11,
+    "time": 1755900917028
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 789,
+      "y": 398
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900917062
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 817,
+      "y": 397
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900917095
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 837,
+      "y": 404
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900917128
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 841,
+      "y": 409
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900917162
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 643
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 214,
+    "time": 1755900917376
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 653
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 27,
+    "time": 1755900917403
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 671
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900917436
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 692
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900917469
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 712
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900917502
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 733
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900917536
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 751
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900917569
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 841,
+      "y": 409
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 123,
+    "time": 1755900917692
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 845,
+      "y": 406
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 11,
+    "time": 1755900917703
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 871,
+      "y": 389
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900917736
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 890,
+      "y": 379
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900917770
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 904,
+      "y": 371
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900917803
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 915,
+      "y": 365
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900917837
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 921,
+      "y": 362
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900917871
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 930,
+      "y": 357
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900917904
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 933,
+      "y": 355
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 32,
+    "time": 1755900917936
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 934,
+      "y": 355
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900917970
+  },
+  {
+    "type": "click",
+    "data": {
+      "x": 934,
+      "y": 355,
+      "button": 0
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 190,
+    "time": 1755900918160
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 934,
+      "y": 356
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 331,
+    "time": 1755900918491
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 934,
+      "y": 374
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 29,
+    "time": 1755900918520
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 936,
+      "y": 397
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900918553
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 937,
+      "y": 417
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900918587
+  },
+  {
+    "type": "click",
+    "data": {
+      "x": 937,
+      "y": 417,
+      "button": 0
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 242,
+    "time": 1755900918829
+  },
+  {
+    "type": "click",
+    "data": {
+      "x": 937,
+      "y": 417,
+      "button": 0
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 1058,
+    "time": 1755900919887
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 937,
+      "y": 416
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 592,
+    "time": 1755900920479
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 960,
+      "y": 375
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 32,
+    "time": 1755900920511
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1009,
+      "y": 305
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900920545
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1042,
+      "y": 264
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900920579
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1058,
+      "y": 249
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900920612
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1067,
+      "y": 246
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900920645
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1074,
+      "y": 246
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900920678
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1080,
+      "y": 246
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900920712
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1083,
+      "y": 246
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900920745
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1085,
+      "y": 246
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900920778
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1087,
+      "y": 248
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900920811
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1089,
+      "y": 251
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900920845
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1091,
+      "y": 253
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900920878
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1091,
+      "y": 257
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900920911
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1092,
+      "y": 262
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900920945
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1092,
+      "y": 271
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900920978
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1092,
+      "y": 279
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900921011
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1091,
+      "y": 283
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900921044
+  },
+  {
+    "type": "click",
+    "data": {
+      "x": 1091,
+      "y": 283,
+      "button": 0
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 206,
+    "time": 1755900921250
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1091,
+      "y": 283
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 317,
+    "time": 1755900921567
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1091,
+      "y": 288
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 28,
+    "time": 1755900921595
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1089,
+      "y": 298
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900921628
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1086,
+      "y": 309
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900921661
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1085,
+      "y": 321
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900921695
+  },
+  {
+    "type": "click",
+    "data": {
+      "x": 1085,
+      "y": 321,
+      "button": 0
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 250,
+    "time": 1755900921945
+  },
+  {
+    "type": "click",
+    "data": {
+      "x": 1085,
+      "y": 321,
+      "button": 0
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 217,
+    "time": 1755900922162
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 755
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 326,
+    "time": 1755900922488
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 768
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 23,
+    "time": 1755900922511
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 790
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900922545
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 811
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900922578
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 843
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900922611
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 878
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900922644
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 909
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900922677
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 936
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900922710
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 958
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900922744
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 978
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900922778
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 994
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900922811
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1007
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900922844
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1019
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900922878
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1031
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900922911
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1039
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900922944
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1047
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900922978
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1055
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 32,
+    "time": 1755900923010
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1059
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900923044
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1063
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 35,
+    "time": 1755900923079
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1064
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 101,
+    "time": 1755900923180
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1081
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 31,
+    "time": 1755900923211
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1105
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900923245
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1133
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900923278
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1165
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900923312
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1195
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900923345
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1219
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900923378
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1239
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900923411
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1255
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900923445
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1269
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900923478
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1281
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900923511
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1293
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900923544
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1302
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900923577
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1310
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900923611
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1318
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900923644
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1324
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900923678
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1329
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 32,
+    "time": 1755900923710
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1333
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 35,
+    "time": 1755900923745
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1337
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 32,
+    "time": 1755900923777
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1338
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 35,
+    "time": 1755900923812
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1085,
+      "y": 322
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 98,
+    "time": 1755900923910
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1085,
+      "y": 329
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 7,
+    "time": 1755900923917
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1082,
+      "y": 350
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 27,
+    "time": 1755900923944
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1071,
+      "y": 382
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900923978
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1059,
+      "y": 409
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900924012
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1048,
+      "y": 432
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900924045
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1037,
+      "y": 450
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900924079
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1033,
+      "y": 458
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900924112
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1345
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 200,
+    "time": 1755900924312
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1360
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 24,
+    "time": 1755900924336
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1388
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900924369
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1422
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900924403
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1464
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900924436
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1509
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900924469
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1547
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900924503
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1579
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900924536
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1600
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900924570
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1592
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 166,
+    "time": 1755900924736
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1581
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900924769
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1568
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900924803
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1561
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900924836
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1549
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900924870
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1537
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 32,
+    "time": 1755900924902
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1525
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900924935
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1515
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 35,
+    "time": 1755900924970
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1507
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900925003
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1499
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900925036
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1493
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900925069
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1489
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900925103
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1485
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900925136
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1482
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900925169
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1480
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900925203
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1478
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900925236
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1477
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900925269
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1476
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900925303
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1475
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900925336
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1485
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 134,
+    "time": 1755900925470
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1509
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900925503
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1543
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 32,
+    "time": 1755900925535
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1592
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900925569
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1651
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900925602
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1703
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900925636
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1746
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900925670
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1784
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900925703
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1816
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900925736
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1844
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900925769
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1866
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900925803
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1884
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900925836
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1892
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900925870
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1033,
+      "y": 458
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 135,
+    "time": 1755900926005
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1033,
+      "y": 470
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 32,
+    "time": 1755900926037
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1033,
+      "y": 494
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900926070
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1033,
+      "y": 518
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900926103
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1033,
+      "y": 547
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900926136
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1031,
+      "y": 561
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900926170
+  },
+  {
+    "type": "click",
+    "data": {
+      "x": 1031,
+      "y": 561,
+      "button": 0
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 215,
+    "time": 1755900926385
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1032,
+      "y": 561
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 379,
+    "time": 1755900926764
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1045,
+      "y": 561
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 31,
+    "time": 1755900926795
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1100,
+      "y": 581
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900926828
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1145,
+      "y": 603
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900926861
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1165,
+      "y": 612
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900926895
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1174,
+      "y": 617
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900926928
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1177,
+      "y": 619
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900926962
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1178,
+      "y": 619
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900926995
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1178,
+      "y": 619
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900927028
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1180,
+      "y": 622
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900927061
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1182,
+      "y": 627
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900927095
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1183,
+      "y": 629
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900927128
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1188,
+      "y": 632
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 34,
+    "time": 1755900927162
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1203,
+      "y": 640
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900927195
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1225,
+      "y": 655
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900927228
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 1239,
+      "y": 664
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 33,
+    "time": 1755900927261
+  },
+  {
+    "type": "click",
+    "data": {
+      "x": 1239,
+      "y": 664,
+      "button": 0
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 335,
+    "time": 1755900927596
+  },
+  {
+    "type": "click",
+    "data": {
+      "x": 0,
+      "y": 0,
+      "button": 0
+    },
+    "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+    "delay": 3,
+    "time": 1755900927599
+  }
+]

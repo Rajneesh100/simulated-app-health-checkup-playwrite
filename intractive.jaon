@@ -1,0 +1,6370 @@
+[
+  {
+    "type": "click",
+    "data": {
+      "x": 749,
+      "y": 569,
+      "button": 0
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 100,
+    "time": 1755908392552
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 749,
+      "y": 568
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 478,
+    "time": 1755908393030
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 746,
+      "y": 561
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908393039
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 741,
+      "y": 554
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908393047
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 736,
+      "y": 546
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908393056
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 730,
+      "y": 535
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908393064
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 725,
+      "y": 524
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908393072
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 719,
+      "y": 513
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908393081
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 715,
+      "y": 502
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908393089
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 710,
+      "y": 488
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908393097
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 705,
+      "y": 477
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908393105
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 704,
+      "y": 472
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908393114
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 700,
+      "y": 463
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908393122
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 698,
+      "y": 456
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908393131
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 696,
+      "y": 452
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908393139
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 694,
+      "y": 447
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908393148
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 693,
+      "y": 444
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 7,
+    "time": 1755908393155
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 692,
+      "y": 442
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908393164
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 692,
+      "y": 441
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908393172
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 691,
+      "y": 438
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908393180
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 691,
+      "y": 437
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 10,
+    "time": 1755908393190
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 690,
+      "y": 436
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 7,
+    "time": 1755908393197
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 689,
+      "y": 434
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908393205
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 689,
+      "y": 432
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908393214
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 688,
+      "y": 428
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908393222
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 687,
+      "y": 427
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908393231
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 687,
+      "y": 425
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908393239
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 686,
+      "y": 424
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908393247
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 686,
+      "y": 423
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908393256
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 686,
+      "y": 422
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908393264
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 685,
+      "y": 421
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908393272
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 685,
+      "y": 421
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908393280
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 685,
+      "y": 421
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908393289
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 685,
+      "y": 420
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908393297
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 685,
+      "y": 420
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 96,
+    "time": 1755908393393
+  },
+  {
+    "type": "click",
+    "data": {
+      "x": 685,
+      "y": 420,
+      "button": 0
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 268,
+    "time": 1755908393661
+  },
+  {
+    "type": "click",
+    "data": {
+      "x": 685,
+      "y": 420,
+      "button": 0
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 154,
+    "time": 1755908393815
+  },
+  {
+    "type": "keydown",
+    "data": {
+      "key": "Meta",
+      "code": "MetaLeft",
+      "ctrl": false,
+      "alt": false,
+      "shift": false,
+      "meta": true
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 822,
+    "time": 1755908394637
+  },
+  {
+    "type": "keydown",
+    "data": {
+      "key": "c",
+      "code": "KeyC",
+      "ctrl": false,
+      "alt": false,
+      "shift": false,
+      "meta": true
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 327,
+    "time": 1755908394964
+  },
+  {
+    "type": "keyup",
+    "data": {
+      "key": "Meta",
+      "code": "MetaLeft",
+      "ctrl": false,
+      "alt": false,
+      "shift": false,
+      "meta": false
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 244,
+    "time": 1755908395208
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 685,
+      "y": 421
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 35,
+    "time": 1755908395243
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 683,
+      "y": 426
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 12,
+    "time": 1755908395255
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 681,
+      "y": 433
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908395264
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 677,
+      "y": 439
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908395272
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 672,
+      "y": 447
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908395281
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 668,
+      "y": 456
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908395289
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 663,
+      "y": 465
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908395297
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 657,
+      "y": 475
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 10,
+    "time": 1755908395307
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 650,
+      "y": 485
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 7,
+    "time": 1755908395314
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 648,
+      "y": 490
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908395322
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 638,
+      "y": 505
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908395330
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 637,
+      "y": 508
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908395339
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 632,
+      "y": 516
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908395347
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 625,
+      "y": 527
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908395355
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 623,
+      "y": 532
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908395364
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 620,
+      "y": 536
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908395372
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 618,
+      "y": 539
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908395380
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 616,
+      "y": 542
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908395389
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 615,
+      "y": 544
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908395397
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 614,
+      "y": 546
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908395405
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 613,
+      "y": 548
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908395414
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 612,
+      "y": 550
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908395423
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 611,
+      "y": 551
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 7,
+    "time": 1755908395430
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 611,
+      "y": 553
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908395439
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 610,
+      "y": 554
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908395447
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 609,
+      "y": 555
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908395456
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 609,
+      "y": 556
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 7,
+    "time": 1755908395463
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 608,
+      "y": 558
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908395472
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 607,
+      "y": 559
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908395480
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 607,
+      "y": 560
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908395489
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 606,
+      "y": 562
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908395498
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 606,
+      "y": 562
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 7,
+    "time": 1755908395505
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 605,
+      "y": 563
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908395514
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 605,
+      "y": 563
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908395522
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 605,
+      "y": 564
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908395530
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 605,
+      "y": 564
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908395539
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 605,
+      "y": 564
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908395547
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 605,
+      "y": 564
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 25,
+    "time": 1755908395572
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 605,
+      "y": 565
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908395580
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 604,
+      "y": 565
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908395589
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 604,
+      "y": 566
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908395597
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 604,
+      "y": 566
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 16,
+    "time": 1755908395613
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 603,
+      "y": 566
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908395621
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 603,
+      "y": 567
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 18,
+    "time": 1755908395639
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 603,
+      "y": 567
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908395647
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 603,
+      "y": 567
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 31,
+    "time": 1755908395678
+  },
+  {
+    "type": "click",
+    "data": {
+      "x": 603,
+      "y": 567,
+      "button": 0
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 242,
+    "time": 1755908395920
+  },
+  {
+    "type": "keydown",
+    "data": {
+      "key": "Meta",
+      "code": "MetaLeft",
+      "ctrl": false,
+      "alt": false,
+      "shift": false,
+      "meta": true
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 316,
+    "time": 1755908396236
+  },
+  {
+    "type": "keydown",
+    "data": {
+      "key": "v",
+      "code": "KeyV",
+      "ctrl": false,
+      "alt": false,
+      "shift": false,
+      "meta": true
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 452,
+    "time": 1755908396688
+  },
+  {
+    "type": "input",
+    "data": {
+      "selector": "INPUT#username",
+      "value": "student"
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 10,
+    "time": 1755908396698
+  },
+  {
+    "type": "keyup",
+    "data": {
+      "key": "Meta",
+      "code": "MetaLeft",
+      "ctrl": false,
+      "alt": false,
+      "shift": false,
+      "meta": false
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 225,
+    "time": 1755908396923
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 604,
+      "y": 566
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 240,
+    "time": 1755908397163
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 610,
+      "y": 559
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908397172
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 617,
+      "y": 553
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908397181
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 626,
+      "y": 545
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908397189
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 632,
+      "y": 539
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908397197
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 639,
+      "y": 532
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908397205
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 644,
+      "y": 527
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908397214
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 655,
+      "y": 517
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908397222
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 657,
+      "y": 513
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908397231
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 666,
+      "y": 504
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908397239
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 672,
+      "y": 497
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908397248
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 677,
+      "y": 491
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 7,
+    "time": 1755908397255
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 679,
+      "y": 487
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908397264
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 681,
+      "y": 483
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908397272
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 682,
+      "y": 481
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908397280
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 684,
+      "y": 479
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908397289
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 685,
+      "y": 478
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908397297
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 685,
+      "y": 477
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908397306
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 686,
+      "y": 476
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908397314
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 686,
+      "y": 476
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908397322
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 687,
+      "y": 475
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908397330
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 687,
+      "y": 475
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908397339
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 687,
+      "y": 475
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908397347
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 687,
+      "y": 474
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 25,
+    "time": 1755908397372
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 687,
+      "y": 474
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908397381
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 687,
+      "y": 474
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 14,
+    "time": 1755908397395
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 687,
+      "y": 473
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908397403
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 687,
+      "y": 473
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 19,
+    "time": 1755908397422
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 687,
+      "y": 473
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 38,
+    "time": 1755908397460
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 687,
+      "y": 472
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 20,
+    "time": 1755908397480
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 688,
+      "y": 471
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908397489
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 688,
+      "y": 471
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908397497
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 688,
+      "y": 469
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908397505
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 689,
+      "y": 468
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908397513
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 689,
+      "y": 466
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908397522
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 690,
+      "y": 463
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908397530
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 691,
+      "y": 461
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908397539
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 693,
+      "y": 457
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908397547
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 694,
+      "y": 455
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908397555
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 696,
+      "y": 453
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908397564
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 697,
+      "y": 450
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908397572
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 698,
+      "y": 449
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908397581
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 698,
+      "y": 449
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908397590
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 699,
+      "y": 448
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 7,
+    "time": 1755908397597
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 699,
+      "y": 448
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908397606
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 699,
+      "y": 448
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908397614
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 699,
+      "y": 448
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 25,
+    "time": 1755908397639
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 699,
+      "y": 447
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 46,
+    "time": 1755908397685
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 699,
+      "y": 447
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908397693
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 700,
+      "y": 447
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 17,
+    "time": 1755908397710
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 700,
+      "y": 446
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 20,
+    "time": 1755908397730
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 700,
+      "y": 446
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908397739
+  },
+  {
+    "type": "click",
+    "data": {
+      "x": 700,
+      "y": 446,
+      "button": 0
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 224,
+    "time": 1755908397963
+  },
+  {
+    "type": "click",
+    "data": {
+      "x": 700,
+      "y": 446,
+      "button": 0
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 185,
+    "time": 1755908398148
+  },
+  {
+    "type": "keydown",
+    "data": {
+      "key": "Meta",
+      "code": "MetaLeft",
+      "ctrl": false,
+      "alt": false,
+      "shift": false,
+      "meta": true
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 273,
+    "time": 1755908398421
+  },
+  {
+    "type": "keydown",
+    "data": {
+      "key": "c",
+      "code": "KeyC",
+      "ctrl": false,
+      "alt": false,
+      "shift": false,
+      "meta": true
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 435,
+    "time": 1755908398856
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 700,
+      "y": 447
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 189,
+    "time": 1755908399045
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 695,
+      "y": 461
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 10,
+    "time": 1755908399055
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 691,
+      "y": 473
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908399064
+  },
+  {
+    "type": "keyup",
+    "data": {
+      "key": "Meta",
+      "code": "MetaLeft",
+      "ctrl": false,
+      "alt": false,
+      "shift": false,
+      "meta": false
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 4,
+    "time": 1755908399068
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 688,
+      "y": 485
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 5,
+    "time": 1755908399073
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 683,
+      "y": 499
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 7,
+    "time": 1755908399080
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 679,
+      "y": 513
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908399089
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 674,
+      "y": 524
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908399098
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 666,
+      "y": 548
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 7,
+    "time": 1755908399105
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 659,
+      "y": 572
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 10,
+    "time": 1755908399115
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 649,
+      "y": 590
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908399123
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 640,
+      "y": 609
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 7,
+    "time": 1755908399130
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 637,
+      "y": 613
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908399139
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 632,
+      "y": 625
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908399147
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 621,
+      "y": 643
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908399155
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 618,
+      "y": 645
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908399164
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 613,
+      "y": 653
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908399172
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 606,
+      "y": 663
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908399181
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 602,
+      "y": 667
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908399189
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 599,
+      "y": 671
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908399197
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 596,
+      "y": 676
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908399205
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 593,
+      "y": 680
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908399214
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 591,
+      "y": 683
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908399222
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 589,
+      "y": 687
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908399230
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 587,
+      "y": 691
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 10,
+    "time": 1755908399240
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 586,
+      "y": 693
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 7,
+    "time": 1755908399247
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 585,
+      "y": 697
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908399255
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 584,
+      "y": 699
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 10,
+    "time": 1755908399265
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 584,
+      "y": 700
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 7,
+    "time": 1755908399272
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 583,
+      "y": 701
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908399280
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 583,
+      "y": 701
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908399289
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 583,
+      "y": 702
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908399297
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 583,
+      "y": 703
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908399305
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 583,
+      "y": 703
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 10,
+    "time": 1755908399315
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 583,
+      "y": 703
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 43,
+    "time": 1755908399358
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 582,
+      "y": 703
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 25,
+    "time": 1755908399383
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 582,
+      "y": 703
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 40,
+    "time": 1755908399423
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 582,
+      "y": 703
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 32,
+    "time": 1755908399455
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 582,
+      "y": 703
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 259,
+    "time": 1755908399714
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 582,
+      "y": 701
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908399722
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 583,
+      "y": 698
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908399730
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 584,
+      "y": 696
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908399739
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 586,
+      "y": 692
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908399747
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 587,
+      "y": 689
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908399756
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 588,
+      "y": 687
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908399764
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 589,
+      "y": 684
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908399772
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 590,
+      "y": 683
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908399781
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 590,
+      "y": 682
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908399789
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 591,
+      "y": 681
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908399797
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 591,
+      "y": 680
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908399805
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 592,
+      "y": 679
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908399814
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 592,
+      "y": 679
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908399822
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 592,
+      "y": 679
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908399831
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 593,
+      "y": 678
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908399839
+  },
+  {
+    "type": "click",
+    "data": {
+      "x": 593,
+      "y": 678,
+      "button": 0
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 235,
+    "time": 1755908400074
+  },
+  {
+    "type": "keydown",
+    "data": {
+      "key": "Meta",
+      "code": "MetaLeft",
+      "ctrl": false,
+      "alt": false,
+      "shift": false,
+      "meta": true
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 283,
+    "time": 1755908400357
+  },
+  {
+    "type": "keydown",
+    "data": {
+      "key": "v",
+      "code": "KeyV",
+      "ctrl": false,
+      "alt": false,
+      "shift": false,
+      "meta": true
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 629,
+    "time": 1755908400986
+  },
+  {
+    "type": "input",
+    "data": {
+      "selector": "INPUT#password",
+      "value": "Password123"
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 3,
+    "time": 1755908400989
+  },
+  {
+    "type": "keyup",
+    "data": {
+      "key": "Meta",
+      "code": "MetaLeft",
+      "ctrl": false,
+      "alt": false,
+      "shift": false,
+      "meta": false
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 233,
+    "time": 1755908401222
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 2
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 312,
+    "time": 1755908401534
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 5
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 13,
+    "time": 1755908401547
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 9
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908401555
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 14
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908401563
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 20
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908401572
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 26
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908401580
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 36
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908401589
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 43
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 7,
+    "time": 1755908401596
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 49
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908401605
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 55
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908401614
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 61
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908401622
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 67
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908401630
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 74
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908401639
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 79
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908401647
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 84
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908401655
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 90
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908401664
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 97
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908401672
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 106
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908401680
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 115
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908401689
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 124
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908401697
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 133
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908401705
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 142
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908401714
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 153
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908401722
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 164
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908401730
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 175
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908401739
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 185
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908401747
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 195
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908401755
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 204
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908401764
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 212
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908401772
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 220
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908401780
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 228
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908401789
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 236
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908401797
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 244
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908401805
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 251
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908401813
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 258
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908401822
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 265
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908401830
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 272
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908401838
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 278
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908401847
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 284
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908401855
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 289
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908401864
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 294
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908401872
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 593,
+      "y": 677
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 63,
+    "time": 1755908401935
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 591,
+      "y": 674
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908401943
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 588,
+      "y": 670
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 13,
+    "time": 1755908401956
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 584,
+      "y": 666
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908401964
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 576,
+      "y": 658
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908401973
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 565,
+      "y": 649
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 7,
+    "time": 1755908401980
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 557,
+      "y": 640
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908401989
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 546,
+      "y": 631
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908401997
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 535,
+      "y": 622
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908402005
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 527,
+      "y": 613
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908402014
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 516,
+      "y": 603
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908402022
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 505,
+      "y": 593
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908402030
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 488,
+      "y": 577
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908402039
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 485,
+      "y": 573
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908402048
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 479,
+      "y": 565
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908402056
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 471,
+      "y": 550
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908402064
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 467,
+      "y": 543
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908402072
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 466,
+      "y": 540
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908402081
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 464,
+      "y": 534
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908402089
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 461,
+      "y": 527
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908402097
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 460,
+      "y": 522
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908402105
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 459,
+      "y": 519
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908402114
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 458,
+      "y": 517
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908402122
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 458,
+      "y": 515
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908402130
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 457,
+      "y": 513
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908402139
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 457,
+      "y": 512
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908402147
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 457,
+      "y": 511
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 10,
+    "time": 1755908402157
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 457,
+      "y": 510
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 7,
+    "time": 1755908402164
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 457,
+      "y": 509
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908402172
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 457,
+      "y": 508
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908402181
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 456,
+      "y": 507
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908402189
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 456,
+      "y": 506
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908402197
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 455,
+      "y": 504
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908402205
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 455,
+      "y": 503
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 10,
+    "time": 1755908402215
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 455,
+      "y": 502
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 7,
+    "time": 1755908402222
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 455,
+      "y": 500
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908402230
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 454,
+      "y": 498
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908402239
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 453,
+      "y": 496
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908402248
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 453,
+      "y": 494
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 7,
+    "time": 1755908402255
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 451,
+      "y": 492
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908402264
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 451,
+      "y": 490
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908402272
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 449,
+      "y": 488
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908402280
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 449,
+      "y": 486
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908402289
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 448,
+      "y": 485
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908402297
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 446,
+      "y": 483
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908402305
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 445,
+      "y": 481
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908402314
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 444,
+      "y": 479
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908402322
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 443,
+      "y": 478
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908402331
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 443,
+      "y": 477
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908402339
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 442,
+      "y": 476
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908402347
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 441,
+      "y": 475
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908402356
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 441,
+      "y": 474
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908402364
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 440,
+      "y": 473
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908402373
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 439,
+      "y": 472
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908402381
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 439,
+      "y": 471
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908402389
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 438,
+      "y": 469
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908402397
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 437,
+      "y": 468
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908402405
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 437,
+      "y": 467
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 9,
+    "time": 1755908402414
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 436,
+      "y": 465
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 8,
+    "time": 1755908402422
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 436,
+      "y": 463
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 10,
+    "time": 1755908402432
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 436,
+      "y": 461
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 7,
+    "time": 1755908402439
+  },
+  {
+    "type": "click",
+    "data": {
+      "x": 436,
+      "y": 461,
+      "button": 0
+    },
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "delay": 246,
+    "time": 1755908402685
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 436,
+      "y": 461
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 3057,
+    "time": 1755908405742
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 441,
+      "y": 458
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 9,
+    "time": 1755908405751
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 447,
+      "y": 455
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 9,
+    "time": 1755908405760
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 456,
+      "y": 452
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 9,
+    "time": 1755908405769
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 465,
+      "y": 450
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 7,
+    "time": 1755908405776
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 471,
+      "y": 447
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 9,
+    "time": 1755908405785
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 488,
+      "y": 444
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908405793
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 505,
+      "y": 441
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908405801
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 519,
+      "y": 439
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908405809
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 533,
+      "y": 438
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 9,
+    "time": 1755908405818
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 540,
+      "y": 436
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908405826
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 551,
+      "y": 436
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 9,
+    "time": 1755908405835
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 560,
+      "y": 436
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908405843
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 566,
+      "y": 435
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 9,
+    "time": 1755908405852
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 573,
+      "y": 435
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908405860
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 578,
+      "y": 435
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908405868
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 580,
+      "y": 435
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 9,
+    "time": 1755908405877
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 583,
+      "y": 435
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908405885
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 584,
+      "y": 435
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908405893
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 585,
+      "y": 435
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 9,
+    "time": 1755908405902
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 586,
+      "y": 435
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908405910
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 587,
+      "y": 434
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908405918
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 588,
+      "y": 434
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908405926
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 588,
+      "y": 432
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 9,
+    "time": 1755908405935
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 589,
+      "y": 430
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908405943
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 590,
+      "y": 426
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908405951
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 591,
+      "y": 421
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 9,
+    "time": 1755908405960
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 591,
+      "y": 414
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908405968
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 591,
+      "y": 406
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908405976
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 591,
+      "y": 394
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 9,
+    "time": 1755908405985
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 591,
+      "y": 380
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908405993
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 591,
+      "y": 369
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 9,
+    "time": 1755908406002
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 586,
+      "y": 352
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908406010
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 580,
+      "y": 338
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 9,
+    "time": 1755908406019
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 573,
+      "y": 322
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 7,
+    "time": 1755908406026
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 564,
+      "y": 303
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 10,
+    "time": 1755908406036
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 554,
+      "y": 285
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 3,
+    "time": 1755908406039
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 547,
+      "y": 264
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908406047
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 539,
+      "y": 249
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908406055
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 529,
+      "y": 231
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908406063
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 521,
+      "y": 216
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908406071
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 518,
+      "y": 212
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908406079
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 512,
+      "y": 201
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 9,
+    "time": 1755908406088
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 509,
+      "y": 192
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 7,
+    "time": 1755908406095
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 504,
+      "y": 184
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 9,
+    "time": 1755908406104
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 502,
+      "y": 180
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908406112
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 499,
+      "y": 173
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908406120
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 497,
+      "y": 170
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908406128
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 496,
+      "y": 165
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908406136
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 495,
+      "y": 162
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 9,
+    "time": 1755908406145
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 494,
+      "y": 157
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 7,
+    "time": 1755908406152
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 493,
+      "y": 154
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908406160
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 493,
+      "y": 150
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 10,
+    "time": 1755908406170
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 493,
+      "y": 147
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 9,
+    "time": 1755908406179
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 493,
+      "y": 144
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908406187
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 493,
+      "y": 141
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 9,
+    "time": 1755908406196
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 493,
+      "y": 139
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908406204
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 493,
+      "y": 135
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 7,
+    "time": 1755908406211
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 493,
+      "y": 133
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 9,
+    "time": 1755908406220
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 493,
+      "y": 131
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908406228
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 493,
+      "y": 129
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 9,
+    "time": 1755908406237
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 493,
+      "y": 127
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 7,
+    "time": 1755908406244
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 493,
+      "y": 125
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 10,
+    "time": 1755908406254
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 494,
+      "y": 124
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908406262
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 494,
+      "y": 122
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908406270
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 494,
+      "y": 122
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 7,
+    "time": 1755908406277
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 494,
+      "y": 121
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 10,
+    "time": 1755908406287
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 494,
+      "y": 120
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 9,
+    "time": 1755908406296
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 494,
+      "y": 119
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908406304
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 494,
+      "y": 119
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 9,
+    "time": 1755908406313
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 494,
+      "y": 119
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 57,
+    "time": 1755908406370
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 493,
+      "y": 119
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908406378
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 491,
+      "y": 120
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908406386
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 490,
+      "y": 121
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908406394
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 488,
+      "y": 123
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908406402
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 486,
+      "y": 124
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908406410
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 483,
+      "y": 126
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908406418
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 481,
+      "y": 128
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 9,
+    "time": 1755908406427
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 475,
+      "y": 132
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 20,
+    "time": 1755908406447
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 473,
+      "y": 134
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908406455
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 469,
+      "y": 137
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 9,
+    "time": 1755908406464
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 467,
+      "y": 138
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908406472
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 465,
+      "y": 141
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 9,
+    "time": 1755908406481
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 464,
+      "y": 142
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908406489
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 462,
+      "y": 143
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908406497
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 461,
+      "y": 144
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 9,
+    "time": 1755908406506
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 460,
+      "y": 145
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908406514
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 459,
+      "y": 146
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908406522
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 458,
+      "y": 147
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908406530
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 457,
+      "y": 148
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908406538
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 457,
+      "y": 148
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 9,
+    "time": 1755908406547
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 456,
+      "y": 149
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908406555
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 455,
+      "y": 152
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 10,
+    "time": 1755908406565
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 454,
+      "y": 153
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 7,
+    "time": 1755908406572
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 453,
+      "y": 155
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908406580
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 453,
+      "y": 156
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 8,
+    "time": 1755908406588
+  },
+  {
+    "type": "click",
+    "data": {
+      "x": 453,
+      "y": 156,
+      "button": 0
+    },
+    "url": "https://practicetestautomation.com/logged-in-successfully/",
+    "delay": 225,
+    "time": 1755908406813
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 453,
+      "y": 156
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 1109,
+    "time": 1755908407922
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 453,
+      "y": 159
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908407930
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 453,
+      "y": 163
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908407938
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 453,
+      "y": 166
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908407946
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 453,
+      "y": 171
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908407954
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 453,
+      "y": 174
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908407962
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 453,
+      "y": 183
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908407970
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 454,
+      "y": 186
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908407978
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 455,
+      "y": 197
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908407986
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 456,
+      "y": 204
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908407994
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 458,
+      "y": 215
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908408002
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 459,
+      "y": 226
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908408011
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 461,
+      "y": 237
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908408019
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 462,
+      "y": 254
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908408027
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 467,
+      "y": 286
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908408035
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 470,
+      "y": 297
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908408043
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 472,
+      "y": 325
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908408052
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 476,
+      "y": 349
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908408060
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 480,
+      "y": 377
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908408068
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 484,
+      "y": 405
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 10,
+    "time": 1755908408078
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 489,
+      "y": 432
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 7,
+    "time": 1755908408085
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 1
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 271,
+    "time": 1755908408356
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 4
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 4,
+    "time": 1755908408360
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 5
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908408368
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 9
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908408376
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 15
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908408385
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 22
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 7,
+    "time": 1755908408392
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 36
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908408401
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 40
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908408409
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 49
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908408418
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 62
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908408426
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 79
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908408434
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 99
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908408443
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 120
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 7,
+    "time": 1755908408450
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 142
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 10,
+    "time": 1755908408460
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 165
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 7,
+    "time": 1755908408467
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 187
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908408476
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 211
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908408484
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 236
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908408493
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 260
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 7,
+    "time": 1755908408500
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 283
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 10,
+    "time": 1755908408510
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 304
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908408518
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 325
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908408526
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 346
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908408534
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 366
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908408543
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 385
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908408551
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 404
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908408560
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 421
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908408568
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 438
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908408576
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 455
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908408585
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 470
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908408593
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 485
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908408601
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 498
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908408610
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 511
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 7,
+    "time": 1755908408617
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 512
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 176,
+    "time": 1755908408793
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 514
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908408801
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 519
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908408810
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 521
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908408818
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 528
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908408826
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 533
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908408835
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 539
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908408843
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 546
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908408851
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 558
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908408859
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 567
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908408867
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 576
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908408876
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 585
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908408885
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 594
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908408893
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 603
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908408901
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 614
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908408910
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 625
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908408918
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 636
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908408926
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 646
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908408935
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 656
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908408943
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 665
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908408951
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 673
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908408959
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 681
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908408968
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 689
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908408976
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 697
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908408984
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 705
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908408993
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 712
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908409001
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 719
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908409010
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 726
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908409018
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 733
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908409026
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 739
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908409035
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 740
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 380,
+    "time": 1755908409415
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 742
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 11,
+    "time": 1755908409426
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 746
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908409435
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 751
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908409443
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 753
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908409451
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 763
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908409459
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 773
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908409468
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 780
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908409476
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 788
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908409485
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 795
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908409493
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 802
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908409501
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 810
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908409510
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 818
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 7,
+    "time": 1755908409517
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 826
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908409526
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 834
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908409534
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 842
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908409543
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 851
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908409551
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 860
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908409560
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 869
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908409568
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 877
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908409576
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 885
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908409584
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 893
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908409593
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 900
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908409601
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 907
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908409610
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 914
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 7,
+    "time": 1755908409617
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 921
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908409626
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 927
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908409635
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 933
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908409643
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 939
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908409651
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 944
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908409659
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 949
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908409668
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 954
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908409676
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 959
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908409685
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 964
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908409693
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 969
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908409701
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 973
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908409709
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 972
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 271,
+    "time": 1755908409980
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 966
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 5,
+    "time": 1755908409985
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 965
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908409993
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 934
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410001
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 911
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908410010
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 896
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410018
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 858
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410026
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 830
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908410035
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 793
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410043
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 753
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908410052
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 710
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410060
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 667
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908410069
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 624
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410077
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 581
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410085
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 538
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410093
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 495
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908410102
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 454
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410110
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 413
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410118
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 373
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908410127
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 335
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410135
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 299
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908410144
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 263
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410152
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 229
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410160
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 195
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908410169
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 163
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410177
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 131
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410185
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 101
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410193
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 72
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908410202
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 44
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410210
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 16
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410218
+  },
+  {
+    "type": "scroll",
+    "data": {
+      "scrollX": 0,
+      "scrollY": 0
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908410227
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 489,
+      "y": 404
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 66,
+    "time": 1755908410293
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 489,
+      "y": 395
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410301
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 490,
+      "y": 386
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410309
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 494,
+      "y": 376
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908410318
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 498,
+      "y": 367
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410326
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 504,
+      "y": 354
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908410335
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 508,
+      "y": 346
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410343
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 513,
+      "y": 335
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410351
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 523,
+      "y": 318
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908410360
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 534,
+      "y": 301
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410368
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 544,
+      "y": 286
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410376
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 551,
+      "y": 276
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908410385
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 562,
+      "y": 263
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410393
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 565,
+      "y": 260
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410401
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 572,
+      "y": 255
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908410410
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 578,
+      "y": 250
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410418
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 583,
+      "y": 246
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410426
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 587,
+      "y": 244
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410434
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 591,
+      "y": 243
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908410443
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 596,
+      "y": 241
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410451
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 599,
+      "y": 241
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908410460
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 602,
+      "y": 241
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410468
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 607,
+      "y": 241
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410476
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 610,
+      "y": 241
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908410485
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 614,
+      "y": 241
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410493
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 618,
+      "y": 242
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410501
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 622,
+      "y": 242
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908410510
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 625,
+      "y": 241
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410518
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 630,
+      "y": 240
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410526
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 636,
+      "y": 238
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908410535
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 642,
+      "y": 234
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 16,
+    "time": 1755908410551
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 644,
+      "y": 233
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908410560
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 647,
+      "y": 231
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410568
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 649,
+      "y": 229
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 7,
+    "time": 1755908410575
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 651,
+      "y": 227
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 10,
+    "time": 1755908410585
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 653,
+      "y": 223
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908410594
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 655,
+      "y": 220
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 7,
+    "time": 1755908410601
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 660,
+      "y": 213
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908410610
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 661,
+      "y": 211
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410618
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 666,
+      "y": 204
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410626
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 667,
+      "y": 201
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908410635
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 670,
+      "y": 196
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410643
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 672,
+      "y": 192
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410651
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 675,
+      "y": 188
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908410660
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 677,
+      "y": 185
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410668
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 678,
+      "y": 183
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410676
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 679,
+      "y": 181
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908410685
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 679,
+      "y": 179
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410693
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 680,
+      "y": 179
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410701
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 680,
+      "y": 178
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908410710
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 681,
+      "y": 178
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410718
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 681,
+      "y": 177
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410726
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 681,
+      "y": 177
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 117,
+    "time": 1755908410843
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 682,
+      "y": 177
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410851
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 683,
+      "y": 176
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908410860
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 685,
+      "y": 174
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410868
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 686,
+      "y": 173
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410876
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 688,
+      "y": 171
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908410885
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 691,
+      "y": 169
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 16,
+    "time": 1755908410901
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 692,
+      "y": 168
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908410910
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 693,
+      "y": 167
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410918
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 694,
+      "y": 167
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410926
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 695,
+      "y": 167
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410934
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 695,
+      "y": 167
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908410943
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 695,
+      "y": 167
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410951
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 696,
+      "y": 166
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908410960
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 697,
+      "y": 166
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410968
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 697,
+      "y": 166
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908410976
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 698,
+      "y": 165
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908410985
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 699,
+      "y": 165
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908410994
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 700,
+      "y": 165
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 7,
+    "time": 1755908411001
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 702,
+      "y": 163
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 9,
+    "time": 1755908411010
+  },
+  {
+    "type": "mousemove",
+    "data": {
+      "x": 703,
+      "y": 162
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 8,
+    "time": 1755908411018
+  },
+  {
+    "type": "click",
+    "data": {
+      "x": 703,
+      "y": 162,
+      "button": 0
+    },
+    "url": "https://practicetestautomation.com/",
+    "delay": 231,
+    "time": 1755908411249
+  }
+]
